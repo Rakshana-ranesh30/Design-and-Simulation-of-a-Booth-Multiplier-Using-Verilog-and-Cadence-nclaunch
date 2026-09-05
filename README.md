@@ -1,3 +1,5 @@
+## NAME : RAKSHANA R
+## REG NO : 212225060218
 # Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
 
 ## Aim
